@@ -1,0 +1,10 @@
+flask
+python-dotenv
+ollama
+PyMuPDF
+Pillow
+numpy
+huggingface_hub
+langchain-core
+langchain-community
+chromadb
